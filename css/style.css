@@ -25,6 +25,7 @@ h3 {
 /* Added the below to fix line height */
 p {
   line-height: 2;
+  padding: 15px;
 }
 
 .logo {
